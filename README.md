@@ -2,7 +2,7 @@
 
 Hi, I’m Maxime! Currently pursuing a dual degree at **ENSAE Paris** (Applied Mathematics & Statistics) and **HEC Paris** (Management & Finance). 
 
-I'm passionate about stochastic modeling and (deep) reinforcement learning applied to market dynamics. I focus on turning theoretical frameworks into robust, scalable algorithmic solutions.
+I'm passionate about stochastic modeling and (deep) reinforcement learning applied to dynamic systems. I focus on turning theoretical frameworks into robust, scalable algorithmic solutions.
 
 I’m always open to new ideas, technical discussions, or research collaborations!
 
