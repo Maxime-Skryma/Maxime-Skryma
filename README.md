@@ -1,10 +1,11 @@
 # Maxime Skryma
 
-Hi, I’m Maxime! Currently pursuing a dual degree at **ENSAE Paris** (Applied Mathematics & Statistics) and **HEC Paris** (Management & Finance). 
+Hi, I’m Maxime! Currently pursuing a dual degree at ENSAE Paris (Applied Mathematics & Statistics) and HEC Paris (Management & Finance).
 
-I'm passionate about stochastic modeling and (deep) reinforcement learning applied to dynamic systems. I focus on turning theoretical frameworks into robust, scalable algorithmic solutions.
+I'm passionate about stochastic modeling, machine learning, and (deep) reinforcement learning applied to complex systems. 
+I enjoy bridging rigorous mathematical thinking with practical implementation, turning theoretical ideas into robust, scalable solutions that solve real-world problems.
 
-I’m always open to new ideas, technical discussions, or research collaborations!
+I'm always open to new ideas, technical discussions, and opportunities at the intersection of technology, product, and business!
 
 📫 Reach me at **maxime.skryma@gmail.com**  
 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/maxime-skryma-08392b282/)
