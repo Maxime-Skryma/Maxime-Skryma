@@ -32,6 +32,7 @@ tools, and coordinate actions to achieve defined objectives.
 **Technologies & Concepts:** AI Agents · Tool Integration · Workflow Automation · Agent Coordination
 🔗 [View Project Repository](https://github.com/Maxime-Skryma/atelier-agents)
 
+---
 
 #### 📈 Hawkes Processes & Deep RL for Crypto Market Making `[Work in Progress]`
 
