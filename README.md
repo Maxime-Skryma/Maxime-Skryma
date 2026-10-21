@@ -4,6 +4,7 @@ Hi, I’m Maxime! Currently pursuing a dual degree at ENSAE Paris (Applied Mathe
 
 I'm passionate about stochastic modeling, machine learning, and (deep) reinforcement learning applied to complex systems. 
 I enjoy bridging rigorous mathematical thinking with practical implementation, turning theoretical ideas into robust, scalable solutions that solve real-world problems.
+I also enjoy building tools to solve everyday problems, or simply for fun!
 
 I'm always open to new ideas, technical discussions, and opportunities at the intersection of technology, product, and business!
 
