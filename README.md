@@ -16,6 +16,23 @@ Here is a selection of my projects, spanning research internships, personal expe
 
 ### 🧠 Featured Projects & Research
 
+
+#### 🤖 Atelier Agents — AI Agent Design & Workflow Automation
+
+**Overview:**
+Hands-on workshop exploring the design of AI agents and automated workflows. The project investigates how agents can break down tasks, interact with
+tools, and coordinate actions to achieve defined objectives.
+
+**Key Components:**
+* Agent workflow design and task decomposition
+* Tool integration for context-aware actions
+* Exploration of agent coordination and automation patterns
+* Practical experiments to evaluate agent behavior and limitations
+
+**Technologies & Concepts:** AI Agents · Tool Integration · Workflow Automation · Agent Coordination
+🔗 [View Project Repository](https://github.com/Maxime-Skryma/atelier-agents)
+
+
 #### 📈 Hawkes Processes & Deep RL for Crypto Market Making `[Work in Progress]`
 
 **Overview:**  
