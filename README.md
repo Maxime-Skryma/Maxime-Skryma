@@ -34,19 +34,26 @@ tools, and coordinate actions to achieve defined objectives.
 
 ---
 
-#### 📈 Hawkes Processes & Deep RL for Crypto Market Making `[Work in Progress]`
+#### 📈 Hawkes Processes & Deep RL for Crypto Market Making
 
 **Overview:**  
-End-to-end framework combining high-frequency market microstructure and reinforcement learning. Simulating realistic, clustered limit order book arrivals using multivariate point processes (Hawkes), and training an autonomous RL market-maker to optimize quotes and inventory risk in non-stationary crypto order-flow environments.
+A two-part research project exploring cryptocurrency market making, from spread modelling and market microstructure to Hawkes-based simulation and deep reinforcement learning. The latest study compares TD3 and SAC with Avellaneda–Stoikov on historical DOTUSDT sessions, examining how transaction costs, inventory risk and execution assumptions affect performance.
 
 **Key Components:**
-* Order-flow event arrival simulation with multivariate Hawkes processes
-* Time-series econometric calibration (cointegration via VECM, volatility clustering via asymmetric GARCH)
-* Custom gym-style market-making environment with dynamic inventory penalization *(in progress)*
-* Deep RL agent training for optimal bid-ask spread placement *(in progress)*
+* Multivariate Hawkes calibration and simulation of clustered order-flow arrivals
+* Synthetic policy training followed by historical fine-tuning
+* TD3 and SAC market-making policies compared with classical controls
+* Policy selection on 12 monthly validation sessions in 2024 and evaluation on 22 monthly sessions from January 2025 to October 2026
+* Sensitivity analysis across three fee settings and zero-, one- and two-tick execution rules
+* Analysis of training variability, regime changes and the limitations of a single pooled Hawkes calibration
 
-**Technologies:** Python · statsmodels · NumPy · scikit-learn · Econometrics · Point Processes  
-🔗 [View Project Repository](https://github.com/Maxime-Skryma/Spread_Crypto) *(Active development)*
+**Findings:**  
+The learned policies outperform Avellaneda–Stoikov in some fee settings, but all three methods have negative average net P&L under the primary one-tick execution rule. Results remain exploratory, with substantial sensitivity to execution assumptions and no clear evidence of a consistent advantage across the observed sessions.
+
+**Technologies:** Python · PyTorch · NumPy · pandas · SciPy · Numba · Matplotlib · Hawkes Processes · Deep Reinforcement Learning
+
+🔗 [Part 1 — Spread_Crypto: initial spread and market-making study](https://github.com/Maxime-Skryma/Spread_Crypto)  
+🔗 [Part 2 — BTC_Hawkes_Deep_RL: Hawkes simulation, TD3/SAC and historical evaluation](https://github.com/Maxime-Skryma/BTC_Hawkes_Deep_RL)
 
 ---
 
