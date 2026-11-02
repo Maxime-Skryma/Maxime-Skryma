@@ -10,6 +10,8 @@ I'm always open to new ideas, technical discussions, and opportunities at the in
 
 📫 Reach me at **maxime.skryma@gmail.com**  
 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/maxime-skryma-08392b282/)
+
+
 [![CV](https://img.shields.io/badge/📄_View_my-CV-blue)](https://github.com/Maxime-Skryma/CV/blob/main/CV_SKRYMA_Maxime.pdf)
 
 ---
